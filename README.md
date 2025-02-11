@@ -1,7 +1,10 @@
 # Horizon_Finance
 Personal financial insights and guidance for those at different stages of life
 
-## About the Project  
+## About the Project 
+
+### PNC Challenge at the SheInnovates Hackathon 2025
+Design an **innovative** and **customer focused** solution that onsiders the **specific financials needs** and **goals of customers** at **different stages or life events**.
 
 ### Inspiration  
 We were inspired by the need for accessible and personalized financial guidance. Many people struggle with planning for major life events—whether it's buying a home, getting married, or preparing for retirement—because financial advice can be generic and disconnected from their real financial situation. We wanted to build a tool that integrates directly with a user's bank data to provide tailored recommendations based on their actual financial habits.  
@@ -34,6 +37,7 @@ Despite these challenges, we successfully built a working prototype that provide
 
 ## Using Horizon Finance
 **Currently, Horizon Finance only runs locally. We are looking to host it publicly at some point soon.**
+Use this link to see [Horizon Finance](link)
 
 ### Local Hosting Instructions
 While you can technically setup the backend and frontend in any order, it is highly recommended to setup the backend first. The frontend/client interfaces with the backend extensively, so setting up the backend first is best-practice.
