@@ -1,6 +1,21 @@
 # Horizon_Finance
 Personal financial insights and guidance for those at different stages of life
 
+## Using Horizon Finance
+**We have deployed Horizon Finance!!!**  
+Use this link to see [Horizon Finance](http://horizonfinancelb-1989960674.us-east-1.elb.amazonaws.com/)
+
+Go through the sign-up flow to create a new account. Since we are using the *sandbox environment* for the *Plaid API*, there will be a little, grey info box at the bottom of the screen telling you what user info to put in at each step of the Plaid login process. For redundancy however, the steps and respective info needed is noted below:
+
+- Phone number: `415-555-0011`
+- Confirmation code: `123456`
+- Bank choice: either
+- Bank login username: `user_good`
+- Bank login password: `pass_good`
+
+### Other Notes
+In the *What-If* tab, when submitting a recommendation request, it will take a few seconds to create a response. 
+
 ## About the Project 
 
 ### PNC Challenge at the SheInnovates Hackathon 2025
@@ -34,10 +49,6 @@ One of the biggest challenges was working with multiple APIs and ensuring smooth
 - **Backend Debugging:** Since we were dealing with multiple external APIs, tracking down errors required extensive logging and testing.  
 
 Despite these challenges, we successfully built a working prototype that provides real-time, data-driven financial guidance to users at different life stages. We’re excited about the potential of this project and how it can help people take control of their financial future. 🚀
-
-## Using Horizon Finance
-**We have deployed Horizon Finance!!!**
-Use this link to see [Horizon Finance](http://horizonfinancelb-1989960674.us-east-1.elb.amazonaws.com/)
 
 ### Local Hosting Instructions
 While you can technically setup the backend and frontend in any order, it is highly recommended to setup the backend first. The frontend/client interfaces with the backend extensively, so setting up the backend first is best-practice.
