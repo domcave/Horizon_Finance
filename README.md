@@ -36,8 +36,8 @@ One of the biggest challenges was working with multiple APIs and ensuring smooth
 Despite these challenges, we successfully built a working prototype that provides real-time, data-driven financial guidance to users at different life stages. We’re excited about the potential of this project and how it can help people take control of their financial future. 🚀
 
 ## Using Horizon Finance
-**Currently, Horizon Finance only runs locally. We are looking to host it publicly at some point soon.**
-Use this link to see [Horizon Finance](link)
+**We have deployed Horizon Finance!!!**
+Use this link to see [Horizon Finance](http://horizonfinancelb-1989960674.us-east-1.elb.amazonaws.com/)
 
 ### Local Hosting Instructions
 While you can technically setup the backend and frontend in any order, it is highly recommended to setup the backend first. The frontend/client interfaces with the backend extensively, so setting up the backend first is best-practice.
