@@ -3,6 +3,7 @@ Personal financial insights and guidance for those at different stages of life
 
 ## Using Horizon Finance
 **We have deployed Horizon Finance!!!**  
+
 Use this link to see [Horizon Finance](http://horizonfinancelb-1989960674.us-east-1.elb.amazonaws.com/)
 
 Go through the sign-up flow to create a new account. Since we are using the *sandbox environment* for the *Plaid API*, there will be a little, grey info box at the bottom of the screen telling you what user info to put in at each step of the Plaid login process. For redundancy however, the steps and respective info needed is noted below:
@@ -19,7 +20,7 @@ In the *What-If* tab, when submitting a recommendation request, it will take a f
 ## About the Project 
 
 ### PNC Challenge at the SheInnovates Hackathon 2025
-Design an **innovative** and **customer focused** solution that onsiders the **specific financials needs** and **goals of customers** at **different stages or life events**.
+Design an **innovative** and **customer focused** solution that considers the **specific financials needs** and **goals of customers** at **different stages or life events**.
 
 ### Inspiration  
 We were inspired by the need for accessible and personalized financial guidance. Many people struggle with planning for major life events—whether it's buying a home, getting married, or preparing for retirement—because financial advice can be generic and disconnected from their real financial situation. We wanted to build a tool that integrates directly with a user's bank data to provide tailored recommendations based on their actual financial habits.  
