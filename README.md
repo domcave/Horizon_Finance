@@ -4,7 +4,7 @@ Personal financial insights and guidance for those at different stages of life
 ## Video Demo
 Click the image below to watch the full demo on Youtube!
 
-[![Horizon Finance Video Demo](http://img.youtube.com/vi/f9VolE-VeLY/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/f9VolE-VeLY))
+[![Horizon Finance Video Demo](http://img.youtube.com/vi/f9VolE-VeLY/0.jpg)](https://youtu.be/f9VolE-VeLY)
 
 ## Using Horizon Finance
 **We have deployed Horizon Finance!!!**  
